@@ -1,0 +1,11 @@
+datasource:
+    db1:
+        url: jdbc1
+        user: user1
+        pass: pass1
+        driverClass: someDriver1
+    db2:
+        url: jdbc2
+        user: user2
+        password: pass2
+        driverClass: someDriver2
